@@ -1,4 +1,3 @@
-//Jordan Brown
 //This program read in a list of inputs and outputs the list,
 //outputs the reverse list and outputs the sorted list
 
